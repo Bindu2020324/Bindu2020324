@@ -1,2 +1,8 @@
 const age =34;
-cont ad=9;
+const ad=9;
+var a = "niadn";
+let b=23;
+
+function isAdult (ag){
+    return ag>=18;
+}
