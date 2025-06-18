@@ -6,3 +6,8 @@ let b=23;
 function isAdult (ag){
     return ag>=18;
 }
+
+function newFun(x)
+{
+    cout<<"second change made";
+}
