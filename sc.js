@@ -11,3 +11,5 @@ function newFun(x)
 {
     cout<<"second change made";
 }
+
+const x ="single change made to chech revert command";
