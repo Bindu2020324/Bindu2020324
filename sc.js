@@ -13,3 +13,8 @@ function newFun(x)
 }
 
 const x ="single change made to chech revert command";
+
+function newFeat(d){
+    console.log("change for new branch made");
+    console.log(d);
+}
